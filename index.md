@@ -19,7 +19,3 @@ layout: default
 <br>
 
 {% include 05-emphasis.md %}
-
-<br>
-
-{% include result.html %}
