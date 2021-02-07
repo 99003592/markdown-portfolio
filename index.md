@@ -5,6 +5,8 @@ layout: default
 {% include 01-name.md %}
 
 <br>
+Go to [Git Inspector](result.html)
+<br>
 
 {% include 02-image.md %}
 
